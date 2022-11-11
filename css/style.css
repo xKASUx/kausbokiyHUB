@@ -1,0 +1,41 @@
+@media (max-width: 1400px) {
+    .imgme {
+        height: 400px;
+        width: 400px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .imgme {
+        height: 300px;
+        width: 300px;
+    }
+}
+
+@media (max-width: 990px) {
+    .imgme {
+        height: 250px;
+        width: 250px;
+    }
+}
+
+@media (max-width: 764px) {
+    .imgme {
+        height: 400px;
+        width: 400px;
+    }
+}
+
+@media (max-width: 432px) {
+    .imgme {
+        height: 300px;
+        width: 300px;
+    }
+}
+
+@media (max-width: 324px) {
+    .imgme {
+        height: 200px;
+        width: 200px;
+    }
+}
