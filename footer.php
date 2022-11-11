@@ -18,6 +18,7 @@
               <li class="nav-item mb-2"><a href="./index.php" class="nav-link p-0 text-muted">Главная</a></li>
               <li class="nav-item mb-2"><a href="./schedule" class="nav-link p-0 text-muted">Расписание</a></li>
               <li class="nav-item mb-2"><a href="./salary" class="nav-link p-0 text-muted">Данные</a></li>
+              <li class="nav-item mb-2"><a href="https://github.com/xKASUx/kasabokiyHUB" class="nav-link p-0 text-muted">GitHub</a></li>
             </ul>
           </div>
         </footer>
