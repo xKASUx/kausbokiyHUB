@@ -86,6 +86,15 @@
                 <label class="form-label" for="form3Example4">Пароль</label>
               </div>
 
+              <!-- добавление элемента div -->
+              <div class="g-recaptcha" data-sitekey="6LdWkRIjAAAAAJH2sScziAMv5v32eePHwt7kLscU"></div>
+
+              <!-- элемент для вывода ошибок -->
+              <div class="text-danger" id="recaptchaError"></div>
+
+              <!-- js-скрипт гугл капчи -->
+              <script src='https://www.google.com/recaptcha/api.js'></script>
+
               <!-- Submit button -->
               <button type="submit" class="btn btn-primary btn-block">
                 Войти
